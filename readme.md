@@ -1,6 +1,6 @@
 # OnlyOffice Web
 
-🌐 **Live Demo**: https://ranuts.github.io/document/
+🌐 **Live Demo**: [https://chang4.github.io/document/](https://chang4.github.io/document/)
 
 [English](readme.md) | [中文](readme.zh.md)
 
@@ -20,7 +20,7 @@ A local web-based document editor based on OnlyOffice, allowing you to edit docu
 
 ### Basic Usage
 
-1. Visit the [Online Editor](https://ranuts.github.io/document/)
+1. Visit the [Online Editor](https://chang4.github.io/document/)
 2. Upload your document files or open from URL
 3. Edit directly in your browser
 4. Download the edited documents
